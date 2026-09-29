@@ -18,6 +18,3 @@ C# · .NET 10 · ASP.NET Core · WPF · PostgreSQL · JavaScript · Node · HTML
 | **Painel IA** | Monitor local de limites e tokens de várias contas de IA | C# |
 
 <sub>Alguns projetos são de clientes ou estão em desenvolvimento, por isso o código é privado.</sub>
-
-### 📫 Contato
-[cyphex.com.br](https://cyphex.com.br)
