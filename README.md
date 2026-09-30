@@ -74,14 +74,11 @@
 <img alt="CFTV e Câmeras IP" src="https://img.shields.io/badge/CFTV%20e%20Câmeras%20IP-2F3542.svg">
 <img alt="GLPI" src="https://img.shields.io/badge/GLPI-002F5F.svg">
 <img alt="RustDesk" src="https://img.shields.io/badge/RustDesk-024EFF.svg?logo=rustdesk&logoColor=white">
+<img alt="Nmap" src="https://img.shields.io/badge/Nmap-2F3542.svg">
+<img alt="PsExec" src="https://img.shields.io/badge/PsExec-2F3542.svg">
+<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?logo=obsidian&logoColor=white">
 <img alt="Manutenção de Hardware" src="https://img.shields.io/badge/Manutenção%20de%20Hardware-2F3542.svg">
 </p>
-
-
-<h4 align="center">📝 Ferramentas</h4>
-
-<p align="center">
-<img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED.svg?logo=obsidian&logoColor=white">
 
 ---
 
